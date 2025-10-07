@@ -32,15 +32,15 @@
 
 <a href="https://linkedin.com/in/nikhilprashar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilprashar1" height="30" width="40" /> LinkedIn </a> <br/>
 
-<a href="https://nikhilprashar.github.io" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;">
-  <!-- inline simple GitHub-like icon -->
+<a href="https://nikhilldeveloper.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;">
+  <!-- inline globe SVG -->
   <svg height="30" width="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-    <circle cx="12" cy="12" r="10" stroke="currentColor" stroke-width="1.2"/>
-    <path d="M8 14s1.5 2 4 2 4-2 4-2" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
-    <path d="M9 9h0M15 9h0" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z" stroke="currentColor" stroke-width="1.2"/>
+    <path d="M2.5 12h19M12 2.5c2.2 3.5 2.2 7 0 10.5M12 21.5c-2.2-3.5-2.2-7 0-10.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
   </svg>
   Portfolio
 </a>
+
 </p>
 <br/>
 <!-- Technologies that I'm working with -->
