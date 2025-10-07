@@ -7,41 +7,39 @@
 <!-- Social Media Links -->
 <div align= center>
 
-[![Twitter Badge](https://img.shields.io/badge/-@NikhilPrashar_-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://twitter.com/NikhilPrashar_)](https://x.com/NikhilPrashar_) &nbsp;&nbsp; [![Linkedin Badge](https://img.shields.io/badge/@nikhilprashar561-0e76a8)](https://www.linkedin.com/in/nikhilprashar1/) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-nikhilprashar561@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:nikhilprashar561@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@NikhilPrashar_-1DA1F2?style=for-the-badge&labelColor=f5f5f5&logo=x&logoColor=black)](https://x.com/NikhilPrashar_)
+&nbsp;&nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilprashar1/)
+&nbsp;&nbsp;
+[![Mail Badge](https://img.shields.io/badge/-nikhilprashar561@gmail.com-EA4335?style=for-the-badge&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:nikhilprashar561@gmail.com)
+&nbsp;&nbsp;
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white)](https://nikhilldeveloper.netlify.app/)
 
 </div>
 
 <!-- About Me -->
 
-### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Hi there
+### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Guys
 
 <h1 align="center">Hi 👋, I'm Nikhil Prashar</h1>
 
 - 🏢 I'm Learning the art of turning ideas into powerful software experiences.
 
-- 📫 How to reach me **nikhilprashar561@gmail.com**
+- Skilled MERN Stack Developer who can build everything from a stunning frontend to a powerful backend.
 
-- ⚡ Fun fact **“Code so clean it deserves a fan club — but bugs still RSVP first.” 😎🐛**
+- I can design user interfaces, set up databases, and develop complete backend systems with clean, efficient code.
+
+-  Capable of building a complete full-stack project from zero — handling both logic and design with equal precision.
+
+-  I begin by understanding your vision and goals, then turn those ideas into a clear, practical tech plan that brings your concept to life.
+
+- Have an idea but need technical direction? I’ll help you break it down, structure the process, and find smart tech solutions to make it work.
 
 - Open to collaborations, internships, and freelance opportunities that value innovation and growth.
 
-<h3 align="left">Connect with me: 👇</h3>
+- ⚡ Fun fact **“Code so clean it deserves a fan club — but bugs still RSVP first.” 😎🐛**
 
-<p align="left">
-<a href="https://twitter.com/nikhilprashar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilprashar_" height="30" width="40" />  Twitter </a> <br/>
 
-<a href="https://linkedin.com/in/nikhilprashar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilprashar1" height="30" width="40" /> LinkedIn </a> <br/>
-
-<a href="https://nikhilldeveloper.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;display:inline-flex;align-items:center;gap:8px;">
-  <!-- inline globe SVG -->
-  <svg height="30" width="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2z" stroke="currentColor" stroke-width="1.2"/>
-    <path d="M2.5 12h19M12 2.5c2.2 3.5 2.2 7 0 10.5M12 21.5c-2.2-3.5-2.2-7 0-10.5" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
-  </svg>
-  Portfolio
-</a>
-
-</p>
 <br/>
 <!-- Technologies that I'm working with -->
 
@@ -53,4 +51,4 @@
 
 <br/>
 
-⭐️ Thank you very much
+⭐️ Thank you very much come here ...
