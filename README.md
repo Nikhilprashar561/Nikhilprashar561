@@ -37,9 +37,6 @@
 
 - Open to collaborations, internships, and freelance opportunities that value innovation and growth.
 
-- ⚡ Fun fact **“Code so clean it deserves a fan club — but bugs still RSVP first.” 😎🐛**
-
-
 <br/>
 <!-- Technologies that I'm working with -->
 
