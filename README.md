@@ -14,6 +14,8 @@
 [![Mail Badge](https://img.shields.io/badge/-nikhilprashar561@gmail.com-EA4335?style=for-the-badge&labelColor=EA4335&logo=gmail&logoColor=white)](mailto:nikhilprashar561@gmail.com)
 &nbsp;&nbsp;
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=white)](https://nikhilldeveloper.netlify.app/)
+&nbsp;&nbsp;
+[![Blogs Badge](https://img.shields.io/badge/-Blogs-000000?style=for-the-badge&labelColor=000000&logo=hashnode&logoColor=white)](https://nikhilprashar.hashnode.dev/)
 
 </div>
 
@@ -21,19 +23,26 @@
 
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px"  alt="hi">&nbsp; Guys
 
-<h1 align="center">Hi 👋, I'm Nikhil Prashar</h1>
+<h1 align="center">I'm Nikhil Prashar</h1>
 
-- 🏢 I'm Learning the art of turning ideas into powerful software experiences.
+- Full Stack Developer focused on building backend-heavy and real-world web applications using the JavaScript & TypeScript ecosystem.
 
-- Skilled MERN Stack Developer who can build everything from a stunning frontend to a powerful backend.
+### Tech Stack
+- JavaScript / TypeScript
+- Node.js / Express.js
+- React.js / Next.js
+- PostgreSQL / MongoDB
+- Socket.io / tRPC / Zod
 
-- I can design user interfaces, set up databases, and develop complete backend systems with clean, efficient code.
+### Current Work
+Currently building a SaaS form builder using Turborepo, tRPC, Zod, PostgreSQL, and Next.js.
 
--  Capable of building a complete full-stack project from zero — handling both logic and design with equal precision.
+### Writing
+I’ve written 50+ technical blogs on backend development, JavaScript, Node.js, databases, and web concepts.
 
--  I begin by understanding your vision and goals, then turn those ideas into a clear, practical tech plan that brings your concept to life.
-
-- Have an idea but need technical direction? I’ll help you break it down, structure the process, and find smart tech solutions to make it work.
+- Blog: https://nikhilprashar.hashnode.dev
+- GitHub: https://github.com/Nikhilprashar561
+- X (Twitter): https://x.com/NikhilPrashar_
 
 - Open to collaborations, internships, and freelance opportunities that value innovation and growth.
 
@@ -43,7 +52,7 @@
 ### <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; Tech-Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongo,tailwind,react,next,postman,git,github,redux,graphql,theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongo,postgres,docker,drizzl,prismatailwind,react,next,postman,git,github,redux,zustand,redis,kafka,theme=dark&perline=8" />
 </p>
 
 <br/>
